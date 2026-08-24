@@ -76,6 +76,6 @@ EOF
 
 ## Author
 
-Mohamed El hammouchi //G1iTch//\
+Mohamed El hammouchi *G1iTch*
 42 Login: mel-hamm
 
